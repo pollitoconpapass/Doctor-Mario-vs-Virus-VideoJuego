@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Mario.h(72,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Mario.h(73,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Mario.h(79,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Mario.h(79,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Enemy.h(51,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Enemy.h(51,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Medicamentos.h(26,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Medicamentos.h(26,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Medicamentos.h(27,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Medicamentos.h(27,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Medicamentos.h(32,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\Medicamentos.h(32,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\MyForm.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\MyForm.h(130,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\MyForm.h(130,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\nivel21.h(25,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\nivel21.h(128,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\nivel21.h(128,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TrabajoFinal (Algoritmos).vcxproj -> C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinal (Algoritmos).exe

@@ -1,0 +1,7 @@
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinal (Algoritmos).vcxproj.AssemblyReference.cache
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinal (Algoritmos).vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinalAlgoritmos.frmMenu.resources
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinalAlgoritmos.Instrucciones.resources
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinalAlgoritmos.MyForm.resources
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinal (Algoritmos).vcxproj.GenerateResource.cache
+C:\Users\jose\Documents\Programación\Sprites\TrabajoFinal (Algoritmos)\TrabajoFinal (Algoritmos)\x64\Debug\TrabajoFinalAlgoritmos.nivel21.resources
